@@ -1,0 +1,101 @@
+.row1{
+    width: 100%;
+    height: 70px;
+    background-color: cornflowerblue;
+    margin-bottom: 20px;
+    margin-top: 10px;
+border: solid rgb(17, 2, 156);
+position: sticky;
+top: 0PX;
+}
+.row{
+    width: 100%;
+    height: 420px%;
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    
+
+}
+.col{
+    width: 350px;
+    height: 400px;
+    background-color: gold;
+    border: 3px solid red;
+    
+}
+img{
+    width: 100%;
+    height: 50%;
+}
+/* .col1{
+    background-color: aqua;
+left: 50px;
+top: 50px;
+}
+.col2{
+    background-color: blue;
+    left: 400px;
+    top: 50px;
+    
+}
+.col3{
+    background-color: rgb(32, 199, 54);
+    left: 800px;
+    top: 50px;
+    
+}
+.col4{
+    background-color: rgb(235, 220, 8);
+    left: 900px;
+    top: 50px;
+    
+}
+/*.col5{
+    background-color: rgb(53, 12, 235);
+    left: 125px;
+    top: 50px;
+    
+}
+.col6{
+    background-color: rgb(232, 8, 240);
+    left: 125px;
+    top: 50px;
+    
+}
+.col7{
+    background-color: rgb(223, 243, 226);
+    left: 125px;
+    top: 50px;
+    
+}
+.col8{
+    background-color: rgb(231, 9, 183);
+    left: 125px;
+    top: 50px;
+    
+}
+.col9{
+    background-color: rgb(163, 127, 187);
+    left: 125px;
+    top: 50px;
+    
+}
+.col10{
+    background-color: rgb(160, 187, 110);
+    left: 125px;
+    top: 50px;
+    
+}
+.col11{
+    background-color: rgb(231, 107, 5);
+    left: 125px;
+    top: 50px;
+    
+}
+.col2{
+    background-color: rgb(58, 41, 19);
+    left: 125px;
+    top: 50px;
+    
+}
